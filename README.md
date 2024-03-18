@@ -11,7 +11,7 @@
 ### <div align="center">I'm Emre, a front-end developer 👨‍💻Currently master student in Université Savoie Mont-Blanc 🚀</div>  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Angular
   
 
 <br/>  
