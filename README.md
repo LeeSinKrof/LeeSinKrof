@@ -11,7 +11,7 @@
 ### <div align="center">I'm Emre, a full-stack developer 👨‍💻Currently master student in Université Savoie Mont-Blanc 🚀</div>  
   
 
-- 🌱 I’m currently learning Angular and c#
+- 🌱 I’m currently learning Angular and C#
   
 
 <br/>  
