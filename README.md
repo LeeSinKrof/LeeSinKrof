@@ -11,7 +11,7 @@
 ### <div align="center">I'm Emre, a full-stack developer with a master’s degree in computer science from Université Savoie Mont-Blanc. 🚀</div>  
   
 
-- 🌱 I’m currently searching for a job ! Please feel free to visit my website : <a href="https://ceylanemre.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" height="50" /></a>
+- 🌱 I’m currently searching for a job ! Please feel free to visit my website : <a href="https://ceylanemre.com/" target="_blank"> alt="Emre" /></a>
 
 
   
